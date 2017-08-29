@@ -4,7 +4,7 @@ Este es un conjunto de script que pueden ayudar a tener un mejor rendimiento en 
 - Potencial de las puntas Compra/venta: calcula y te indica el potencial de las puntas de compra/venta, destacando aquellas que se encuentran en su base o bajo esta. 
 
 
-==Requerimientos==
+# Requerimientos
 -python 3
 
 

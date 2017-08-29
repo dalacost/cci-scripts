@@ -33,7 +33,7 @@ if __name__ == '__main__':
 		plus =""
 		if valores[0] == valores[1] and valores[1] < valores[2] :
 			plus="**"
-		if valores[1] < valores[0] :
+		if valores[0] < valores[1] :
                         plus="** comprar ahora!"
 
 		print(MEMO+" Potencial:"+str(round(float(valores[2])*100/float(valores[0])-100,2))+"% "+plus)
